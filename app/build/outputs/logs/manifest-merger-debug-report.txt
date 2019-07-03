@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/e4bc02cd3b5b0425f5e0be7e244dc6f8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/021ab67b6a09a73737977dd770ebbb77/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/3e6b4c8df9cd8e479dd6234fe0cb1309/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/8c7b4d4433ceb16cb05d723ea651e40d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/6631bd0757fa6ff7680ec540009650ed/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/c0e94980380ffc03f52c39ea69250d60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/b848cf45af5520b346986228140fc66e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/240b745baafdedff8188844ce6bec19d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/21d71a494aa8007900323635217024a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/46662f83e50f0d2ec6e397423c730353/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/8a75a54d0f916cc6900c26864b03e1d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/39b41f1f24e853541bc724640d55f5a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/19da5e998d81b7113f4d5aedf40fa211/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/950827f0afe381328b1876d703baef0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/23fdcb5aa9e408e2e1d069fcb2784a6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/1cafbbf45bc47d2f332a83142599ac5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/038c57998a5bad185e0c95defeb01db1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/f1d9c9116064bd6dc5643668ee3f2050/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/c8907390a5578e8661b410743af15927/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/289b6c2c115fc3cc521dd90f43b2f35f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/65830f8bead18df789b5694e0f4bc2bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/a836162f165f3852e7db445d72459b6c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/a195e0866d7b963af2eec904f47b12bd/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/344d16a345554f3af5891258ac231cb5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/97d68ba4e479ce36a550397c424e8fd8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/db0a1d4ca9571a818212b808e8507a7e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/5e02846f539c965df449b11d1c931fb8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/fa389c8eb2bdb806bedd3121ed4a5d23/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/2578dc318a73d45dbbc84f8b0f0716c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/c8596d1dfa6aade99e26f05d2017c447/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/cc6195a5c9de36c0b30c4a006f33fc8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/4aafad860126dca9318cd01f29ee5a50/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/beb268259dc246d447f61e4832b2f3a0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/1ca4ea767b79e28999dcd66f575da1ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/5853e784c6ca5f479a12a35f9c72bb14/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:10:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/8c7b4d4433ceb16cb05d723ea651e40d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/8c7b4d4433ceb16cb05d723ea651e40d/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/6631bd0757fa6ff7680ec540009650ed/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/6631bd0757fa6ff7680ec540009650ed/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/a836162f165f3852e7db445d72459b6c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/a836162f165f3852e7db445d72459b6c/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/a195e0866d7b963af2eec904f47b12bd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/a195e0866d7b963af2eec904f47b12bd/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/a836162f165f3852e7db445d72459b6c/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.codepath.apps.restclienttemplate.ComposeActivity
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:17:9-62
+	android:name
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:17:19-50
+activity#com.codepath.apps.restclienttemplate.TimelineActivity
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:18:9-54
+	android:name
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:18:19-51
+activity#com.codepath.apps.restclienttemplate.LoginActivity
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:19:9-38:20
+	android:label
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:22:13-44
+	android:name
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:20:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:26:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:28:13-37:29
+action#android.intent.action.VIEW
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:31:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:32:27-75
+data
+ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:34:17-36:62
+	android:host
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:35:21-55
+	android:scheme
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml:36:21-59
+uses-sdk
+INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/e4bc02cd3b5b0425f5e0be7e244dc6f8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.codepath.libraries:android-oauth-handler:1.4.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/e4bc02cd3b5b0425f5e0be7e244dc6f8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/021ab67b6a09a73737977dd770ebbb77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/021ab67b6a09a73737977dd770ebbb77/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/3e6b4c8df9cd8e479dd6234fe0cb1309/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/3e6b4c8df9cd8e479dd6234fe0cb1309/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/8c7b4d4433ceb16cb05d723ea651e40d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/8c7b4d4433ceb16cb05d723ea651e40d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/6631bd0757fa6ff7680ec540009650ed/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.stetho:stetho:1.5.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/6631bd0757fa6ff7680ec540009650ed/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/c0e94980380ffc03f52c39ea69250d60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/c0e94980380ffc03f52c39ea69250d60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/b848cf45af5520b346986228140fc66e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/b848cf45af5520b346986228140fc66e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/240b745baafdedff8188844ce6bec19d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/240b745baafdedff8188844ce6bec19d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/21d71a494aa8007900323635217024a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/21d71a494aa8007900323635217024a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/46662f83e50f0d2ec6e397423c730353/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/46662f83e50f0d2ec6e397423c730353/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/8a75a54d0f916cc6900c26864b03e1d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/8a75a54d0f916cc6900c26864b03e1d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/39b41f1f24e853541bc724640d55f5a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/39b41f1f24e853541bc724640d55f5a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/19da5e998d81b7113f4d5aedf40fa211/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/19da5e998d81b7113f4d5aedf40fa211/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/950827f0afe381328b1876d703baef0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/950827f0afe381328b1876d703baef0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/23fdcb5aa9e408e2e1d069fcb2784a6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/23fdcb5aa9e408e2e1d069fcb2784a6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/1cafbbf45bc47d2f332a83142599ac5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/1cafbbf45bc47d2f332a83142599ac5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/038c57998a5bad185e0c95defeb01db1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/038c57998a5bad185e0c95defeb01db1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/f1d9c9116064bd6dc5643668ee3f2050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/f1d9c9116064bd6dc5643668ee3f2050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/c8907390a5578e8661b410743af15927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/c8907390a5578e8661b410743af15927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/289b6c2c115fc3cc521dd90f43b2f35f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/289b6c2c115fc3cc521dd90f43b2f35f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/65830f8bead18df789b5694e0f4bc2bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/65830f8bead18df789b5694e0f4bc2bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/a836162f165f3852e7db445d72459b6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/a836162f165f3852e7db445d72459b6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/a195e0866d7b963af2eec904f47b12bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/a195e0866d7b963af2eec904f47b12bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/344d16a345554f3af5891258ac231cb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/344d16a345554f3af5891258ac231cb5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/97d68ba4e479ce36a550397c424e8fd8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/97d68ba4e479ce36a550397c424e8fd8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/db0a1d4ca9571a818212b808e8507a7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/db0a1d4ca9571a818212b808e8507a7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/5e02846f539c965df449b11d1c931fb8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/5e02846f539c965df449b11d1c931fb8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/fa389c8eb2bdb806bedd3121ed4a5d23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/fa389c8eb2bdb806bedd3121ed4a5d23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/2578dc318a73d45dbbc84f8b0f0716c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/2578dc318a73d45dbbc84f8b0f0716c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/c8596d1dfa6aade99e26f05d2017c447/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/c8596d1dfa6aade99e26f05d2017c447/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/cc6195a5c9de36c0b30c4a006f33fc8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/cc6195a5c9de36c0b30c4a006f33fc8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/4aafad860126dca9318cd01f29ee5a50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/4aafad860126dca9318cd01f29ee5a50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/beb268259dc246d447f61e4832b2f3a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/beb268259dc246d447f61e4832b2f3a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/1ca4ea767b79e28999dcd66f575da1ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/1ca4ea767b79e28999dcd66f575da1ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/5853e784c6ca5f479a12a35f9c72bb14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/deandraharvin3/.gradle/caches/transforms-2/files-2.1/5853e784c6ca5f479a12a35f9c72bb14/AndroidManifest.xml:20:5-44
+INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/src/main/AndroidManifest.xml

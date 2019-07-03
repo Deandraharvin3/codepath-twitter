@@ -1,0 +1,4 @@
+#Wed Jul 03 14:32:15 PDT 2019
+base.0=/Users/deandraharvin3/Documents/Twitter App/codepath-twitter/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
