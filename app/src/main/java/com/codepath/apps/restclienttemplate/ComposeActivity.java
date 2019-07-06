@@ -3,9 +3,12 @@ package com.codepath.apps.restclienttemplate;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.text.Editable;
+import android.text.TextWatcher;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 
 import com.codepath.apps.restclienttemplate.models.Tweet;
 import com.loopj.android.http.AsyncHttpResponseHandler;
@@ -21,16 +24,38 @@ public class ComposeActivity extends AppCompatActivity {
     Button btnSend;
     EditText etTweetInput;
     RestClient client;
+    TextView count;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_compose);
         btnSend = (Button) findViewById(R.id.btnSend);
         etTweetInput = (EditText) findViewById(R.id.etTweetInput);
+        count = (TextView) findViewById(R.id.tvCount);
         btnSend.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 sendTweet();
+            }
+
+        });
+
+        etTweetInput.addTextChangedListener(new TextWatcher() {
+            @Override
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int c) {
+                int length = etTweetInput.length();
+                String convert = String.valueOf(length);
+                count.setText(convert + "/280");
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
+
             }
         });
     }
@@ -46,7 +71,7 @@ public class ComposeActivity extends AppCompatActivity {
                         Tweet resultTweet = Tweet.fromJSON(responseJson);
 
                         //return result to calling activity
-                        Intent resultData = new Intent();
+                        Intent resultData = new Intent(ComposeActivity.this, TimelineActivity.class);
                         resultData.putExtra(RESULT_TWEET_KEY, Parcels.wrap(resultTweet));
                         startActivityForResult(resultData, statusCode);
                     } catch (JSONException e) {
